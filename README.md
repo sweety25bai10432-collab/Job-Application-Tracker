@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 About the Project
+## 📌 Overview
 
 Applying for multiple jobs and internships can become difficult to manage. It is easy to forget application dates, deadlines, follow-ups, or the current status of an application.
 
@@ -46,6 +46,7 @@ The project is completely **command-line based**, so it can be compiled and exec
 * **OOP (Object-Oriented Programming)**
 * **ArrayList**
 * **File Handling**
+* **Polymorphism**
 * **Exception Handling**
 * **Java Date & Time API**
 * **Comparator**
@@ -185,6 +186,7 @@ The application menu will appear in the terminal.
 10. Export Applications
 0. Exit
 ```
+<img width="460" height="662" alt="Screenshot 2026-09-17 220013" src="https://github.com/user-attachments/assets/288a61f6-a753-40ac-94e5-997c35a5a5e5" />
 
 ---
 
@@ -298,30 +300,6 @@ data/applications_report.txt
 
 ---
 
-## 🧠 Java Concepts Demonstrated
-
-This project uses several concepts covered in Java:
-
-```text
-Classes & Objects
-       ↓
-Encapsulation
-       ↓
-ArrayList
-       ↓
-File Handling
-       ↓
-Exception Handling
-       ↓
-Date & Time API
-       ↓
-Sorting with Comparator
-       ↓
-Switch & Loops
-       ↓
-Console Input/Output
-```
-
 ---
 
 ## 🎯 Purpose of the Project
@@ -332,22 +310,6 @@ It combines basic Java concepts into one practical console-based application.
 
 ---
 
-## 🚀 Future Improvements
-
-Some possible improvements for future versions are:
-
-* GUI interface
-* Database support
-* Login and user accounts
-* Email reminders
-* Resume attachment support
-* More detailed reports
-
----
-
-## 👩‍💻 Author
-
-**Sweety Kumari**
 
 Java Programming Project
 
